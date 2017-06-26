@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/main.ts"],"names":[],"mappings":";;;;;AAAA,IAAM,MAAM,GAAW,QAAQ,CAAC;AAEhC,OAAO,CAAC,GAAG,CAAC,2BAAyB,MAAQ,CAAC,CAAC","file":"ts.33a7de9586f0b8977242.js","sourcesContent":["const prenom: String = 'Julien';\n\nconsole.log(`Hy, I am Typescript : ${prenom}`);\n\n\n// WEBPACK FOOTER //\n// ./src/main.ts"],"sourceRoot":""}
